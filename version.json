@@ -4,7 +4,7 @@
   "releaseDate": "30/10/2026",
   "title": "Bản Cập Nhật SaDacG v1.3.0 (Tối Ưu & Nâng Cấp)",
   "changelog": "* Tự động cập nhật trực tuyến thông minh (Auto-Updater)\n* Nâng cấp hộp thoại thông báo và xác nhận phiên bản v1.3.0\n* Tối ưu hóa hiệu năng và độ ổn định trên MicroStation V8i\n* Tự động khởi động lại MicroStation sau khi cập nhật",
-  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/V1.3/SaDacG_Setup.exe",
+  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/V3/SaDacG_Setup.exe",
   "isRequired": false,
   "fileSize": 1169920
 }
