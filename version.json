@@ -4,7 +4,7 @@
   "releaseDate": "30/10/2026",
   "title": "Bản Cập Nhật SaDacG v1.2.0 (Tính Năng Mới)",
   "changelog": "• Bổ sung tính năng Tự Động Cập Nhật Online (Auto-Updater)\n• Tự động kiểm tra bản mới ngầm trong MicroStation\n• Tải và cài đè 1-click không cần cài lại thủ công\n• Tối ưu tốc độ chuẩn hóa bản đồ và vẽ nhãn địa chính",
-  "downloadUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/SaDacG_Setup.exe",
+  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/V1.2/SaDacG_Setup.exe",
   "isRequired": false,
   "fileSize": 1168384
 }
