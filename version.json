@@ -1,10 +1,10 @@
 {
-  "version": "1.4.0",
-  "versionCode": 10400,
-  "releaseDate": "30/10/2026",
-  "title": "Bản Cập Nhật SaDacG v1.4.0 (Đổi Màu Giao Diện)",
-  "changelog": "* Thay đổi màu chữ nút [Cập Nhật] sang MÀU ĐỎ CAM nổi bật\n* Hiển thị phiên bản trực tiếp trên nút: [⟳ Cập Nhật (v1.4)]\n* Tự động quét và đề xuất nâng cấp thông minh khi phát hiện bản cũ\n* Tối ưu hóa hiệu năng trên MicroStation V8i",
-  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/V1.4/SaDacG_Setup.exe",
+  "version": "1.5.0",
+  "versionCode": 10500,
+  "releaseDate": "31/10/2026",
+  "title": "Bản Cập Nhật SaDacG v1.5.0",
+  "changelog": "* Cập nhật và nâng cấp phiên bản 1.5.0\n* Tối ưu hóa hệ thống và cải thiện trải nghiệm người dùng",
+  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.5/SaDacG_Setup.exe",
   "isRequired": false,
-  "fileSize": 1171456
+  "fileSize": 1174528
 }
