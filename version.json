@@ -3,7 +3,7 @@
   "versionCode": 10500,
   "releaseDate": "31/10/2026",
   "title": "Bản Cập Nhật SaDacG v1.5.0",
-  "changelog": "* Cập nhật và nâng cấp phiên bản 1.5.0\n* Tối ưu hóa hệ thống và cải thiện trải nghiệm người dùng",
+  "changelog": "* Nâng cấp lên phiên bản 1.5.0\n* Tối ưu hóa hiệu năng và độ ổn định hệ thống",
   "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.5/SaDacG_Setup.exe",
   "isRequired": false,
   "fileSize": 1174528
