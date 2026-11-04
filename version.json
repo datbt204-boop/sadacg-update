@@ -4,7 +4,7 @@
   "releaseDate": "04/11/2026",
   "title": "Bản Cập Nhật SaDacG v1.7.0",
   "changelog": "* Khắc phục triệt để lỗi mất nhãn Loại đất Level 2/29 trên các tờ bản đồ bị hoán đổi Level (như tờ dc2)\n* Bảo vệ toàn vẹn các nét đường bao và mảnh giới khi dọn dẹp nhãn\n* Tự động lấy Loại đất từ dữ liệu thuộc tính (file GTP) nếu Cell nhãn bị thiếu\n* Cập nhật phiên bản bộ cài lên v1.7.0",
-  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.7/SaDacG_Setup.exe",
+  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/V1.7/SaDacG_Setup.exe",
   "isRequired": false,
   "fileSize": 1174528
 }
