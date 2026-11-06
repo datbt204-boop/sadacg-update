@@ -1,10 +1,10 @@
 {
-  "version": "1.7.2",
-  "versionCode": 10702,
+  "version": "1.7.3",
+  "versionCode": 10703,
   "releaseDate": "06/11/2026",
-  "title": "Bản Cập Nhật SaDacG v1.7.2",
-  "changelog": "* Tự động đồng bộ số phiên bản v1.7.2 (khắc phục lỗi hiện popup báo cập nhật liên tục khi mở file)\n* Nâng cấp bộ cài tự động đóng MicroStation để cài đè file và khởi động lại ngay sau đó\n* Đã sửa triệt để lỗi vẽ 2 lớp loại đất Level 29 trên tờ 205\n* Thêm hộp thoại hỏi xác nhận trước khi Chuẩn Hoá Bản Đồ",
-  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.7.2/SaDacG_Setup.exe",
+  "title": "Bản Cập Nhật SaDacG v1.7.3",
+  "changelog": "* Tự động tắt Level 29 ngay sau khi vẽ nhãn xong (chỉ hiển thị Level 2, 13, 4 theo đúng quy chuẩn)\n* Đã đồng bộ số phiên bản và tối ưu hóa tốc độ đóng gói",
+  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.7.3/SaDacG_Setup.exe",
   "isRequired": false,
   "fileSize": 1176064
 }
