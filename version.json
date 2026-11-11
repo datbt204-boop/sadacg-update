@@ -1,10 +1,10 @@
 {
-  "version": "1.7.3",
-  "versionCode": 10703,
-  "releaseDate": "06/11/2026",
-  "title": "Bản Cập Nhật SaDacG v1.7.3",
-  "changelog": "* Tự động tắt Level 29 ngay sau khi vẽ nhãn xong (chỉ hiển thị Level 2, 13, 4 theo đúng quy chuẩn)\n* Đã đồng bộ số phiên bản và tối ưu hóa tốc độ đóng gói",
-  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.7.3/SaDacG_Setup.exe",
+  "version": "1.7.4",
+  "versionCode": 10704,
+  "releaseDate": "11/11/2026",
+  "title": "Bản Cập Nhật SaDacG v1.7.4",
+  "changelog": "* Đồng bộ danh sách lớp từ Tạo Thửa sang Sửa Lỗi tự động (hỗ trợ Level 10, 23, 31, 32, 49, 57...)\n* Nâng cấp Xuất SHP: Mở trực tiếp hộp thoại chọn thư mục (Browse For Folder) nhanh chóng không cần bấm ...",
+  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.7.4/SaDacG_Setup.exe",
   "isRequired": false,
-  "fileSize": 1176064
+  "fileSize": 1178112
 }
