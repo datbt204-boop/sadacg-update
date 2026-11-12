@@ -1,10 +1,10 @@
 {
-  "version": "1.7.4",
-  "versionCode": 10704,
-  "releaseDate": "11/11/2026",
-  "title": "Bản Cập Nhật SaDacG v1.7.4",
-  "changelog": "* Đồng bộ danh sách lớp từ Tạo Thửa sang Sửa Lỗi tự động (hỗ trợ Level 10, 23, 31, 32, 49, 57...)\n* Nâng cấp Xuất SHP: Mở trực tiếp hộp thoại chọn thư mục (Browse For Folder) nhanh chóng không cần bấm ...",
-  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.7.4/SaDacG_Setup.exe",
+  "version": "1.7.5",
+  "versionCode": 10705,
+  "releaseDate": "12/11/2026",
+  "title": "Bản Cập Nhật SaDacG v1.7.5",
+  "changelog": "* Xuất SHP một chạm: Bấm chọn thư mục xong là tự động xuất thẳng ra Shapefile TT75 & Excel báo cáo, bỏ qua toàn bộ các hộp thoại xác nhận thừa",
+  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.7.5/SaDacG_Setup.exe",
   "isRequired": false,
-  "fileSize": 1178112
+  "fileSize": 1182208
 }
