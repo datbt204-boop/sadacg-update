@@ -1,10 +1,10 @@
 {
-  "version": "1.7.5",
-  "versionCode": 10705,
-  "releaseDate": "12/11/2026",
-  "title": "Bản Cập Nhật SaDacG v1.7.5",
-  "changelog": "* Xuất SHP một chạm: Bấm chọn thư mục xong là tự động xuất thẳng ra Shapefile TT75 & Excel báo cáo, bỏ qua toàn bộ các hộp thoại xác nhận thừa",
-  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.7.5/SaDacG_Setup.exe",
+  "version": "1.7.7",
+  "versionCode": 10707,
+  "releaseDate": "16/11/2026",
+  "title": "Bản Cập Nhật SaDacG v1.7.7",
+  "changelog": "* Gán Thửa (13) & Gán Loại Đất (2): Chỉ hiển thị popup thông báo kết quả, tắt hoàn toàn bảng cấu hình\n* Tạo Thửa: Tự động kích hoạt tính năng Dọn Rác GTP sau khi tạo thửa xong\n* Giao diện: Dịch thanh công cụ sang bên trái 65px, bố cục cân đối và đẹp mắt",
+  "downloadUrl": "https://github.com/datbt204-boop/sadacg-update/releases/download/v1.7.7/SaDacG_Setup.exe",
   "isRequired": false,
-  "fileSize": 1182208
+  "fileSize": 1184256
 }
